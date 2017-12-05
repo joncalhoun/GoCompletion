@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "GoCompletion: Install/Update",
+        "command": "go_completion_update",
+    }
+]
